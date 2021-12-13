@@ -1,1 +1,2 @@
 O GIT BASH é um terminal extendido para o uso do GIT.
+O repositório é uma área onde se tem um código versionado.
